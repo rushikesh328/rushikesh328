@@ -42,7 +42,7 @@ My journey began with research data and curiosity — and evolved into designing
 
 ## 📈 Featured Projects  
 
-### 🏙 [NYC Air Quality & Health Impact](https://github.com/rushikesh328/Machine-Learning)
+### 🏙 [NYC Air Quality & Health Impact](https://github.com/rushikesh328/Scripting-with-Python)
 **Python, XGBoost, Tableau**
 
 Analyzed 10+ years of pollution and health data to identify high-risk areas.  
@@ -50,7 +50,7 @@ Built an **XGBoost model (86% accuracy)** and **Tableau dashboards** that visual
 
 ---
 
-### 🎵 [Harmony Hub: Music Streaming Data Warehouse](https://github.com/rushikesh328/Harmony-Hub)
+### 🎵 [Harmony Hub: Music Streaming Data Warehouse]
 **Snowflake, SQL, Power BI, AWS**
 
 Designed a **Snowflake warehouse** integrating 1M+ records using star schema modeling.  
