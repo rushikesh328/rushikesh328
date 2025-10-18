@@ -22,8 +22,8 @@ My journey began with research data and curiosity — and evolved into designing
 ## 🏆 Certifications  
 
 ✅ [Snowflake Data Warehousing Certification](https://achieve.snowflake.com/9aaef27e-6363-432e-9234-59238e981d1e#acc.48KA590Y)  
-✅ [Microsoft Excel Associate (2019)](https://www.udemy.com/certificate/UC-57c00a72-e361-47fc-a8e5-0c7e5d5c8725/)  
-✅ [Python Programming (Udemy)](https://drive.google.com/file/d/1kJovsjox0GUJwdHr3lfoz7pz98FLBLQo/view)
+✅ [Microsoft Excel Associate (2019)](https://drive.google.com/file/d/1kJovsjox0GUJwdHr3lfoz7pz98FLBLQo/view)  
+✅ [Python Programming (Udemy)](https://www.udemy.com/certificate/UC-57c00a72-e361-47fc-a8e5-0c7e5d5c8725/)
 
 ---
 
