@@ -1,78 +1,98 @@
 <!-- Profile header with visitor badge -->
-# 👋 Hi, I'm Rushikesh Shinde  
+# 👋 Hi, I'm Rushikesh Shinde
 [![](https://komarev.com/ghpvc/?username=rushikesh328&label=Profile%20Views&color=blue&style=flat)](https://github.com/rushikesh328)
 
-Turning data into decisions with a blend of curiosity, analytics, and automation.  
+**I build data systems that help teams make faster decisions — not just dashboards.**
 
-🚀 **Data Analyst | BI & Visualization | SQL | Python | Tableau | Cloud Data Engineering**
+Early-career data professional working across analytics, data engineering, and business intelligence. My work focuses on transforming messy operational data into reliable pipelines, models, and reporting that stakeholders actually use.
 
----
-
-## 🔍 About Me  
-
-💡 Passionate about building analytical systems that turn raw data into insights people can act on.  
-🎓 **M.S. in Information Systems** | Syracuse University — *Certificate in Data Science*  
-🤖 **Data & AI Intern @ Propvia** — Building property-level intelligence pipelines, batch predictions, and risk tiers using Python & SQL.  
-💼 **Data Analyst @ Syracuse University** — Automating research analytics and KPI tracking using Python, PySpark & Tableau.  
-📊 **Ex-Wipro Trainee** — Delivered forecasting dashboards and SQL-driven automation for ops and finance teams.  
-
-My journey began with research data and curiosity — and evolved into designing automated data pipelines, predictive models, and interactive dashboards that help teams make faster, smarter decisions.
+🚀 **Data Analyst | Analytics Engineering | SQL | Python | Tableau | Data Warehousing**
 
 ---
 
-## 🏆 Certifications  
+## 🔎 What I Do
+- Automate reporting and KPI tracking for research and operational teams
+- Design data pipelines and warehouse models
+- Build dashboards that drive business decisions
+- Apply predictive analytics to real-world problems
 
-✅ [Snowflake Data Warehousing Certification](https://achieve.snowflake.com/9aaef27e-6363-432e-9234-59238e981d1e#acc.48KA590Y)  
-✅ [Microsoft Excel Associate (2019)](https://drive.google.com/file/d/1kJovsjox0GUJwdHr3lfoz7pz98FLBLQo/view)  
-✅ [Python Programming (Udemy)](https://www.udemy.com/certificate/UC-57c00a72-e361-47fc-a8e5-0c7e5d5c8725/)
-
----
-
-## 📌 Skills & Tools  
-
-| **Category** | **Tools & Technologies** |
-|---------------|--------------------------|
-| **Languages** | Python, SQL, R, Excel (VBA) |
-| **Visualization** | Tableau, Power BI, Looker, Google Data Studio |
-| **Data Engineering** | Snowflake, PostgreSQL, BigQuery, dbt, Airflow, Spark |
-| **Cloud** | AWS (S3, Redshift), familiar with GCP & Azure |
-| **Machine Learning** | Scikit-learn, XGBoost |
-| **Collaboration** | Git, JIRA, Confluence |
+I enjoy working at the intersection of **analytics + engineering + business impact**.
 
 ---
 
-## 📈 Featured Projects  
+## 🧠 Experience
 
-### 🏙 [NYC Air Quality & Health Impact](https://github.com/rushikesh328/Scripting-with-Python)
+🎓 **M.S. Information Systems — Syracuse University** *(Certificate in Data Science)*
+
+🤖 **Data & AI Intern — Propvia (AI Real-Estate Intelligence Startup)**  
+Build property-level intelligence systems by creating batch prediction workflows, risk classification tiers, and data pipelines using Python & SQL. Work with structured and semi-structured datasets to generate decision signals for real-estate analysis.
+
+💼 **Data Analyst (Data Analytics & AI) — Syracuse University iSchool DataLab**  
+Automate research analytics, descriptive statistics, and KPI reporting using Python, PySpark, and Tableau. Develop reproducible workflows that reduce manual analysis effort and improve reporting turnaround for academic stakeholders.
+
+📊 **Project Engineer Trainee — Wipro**  
+Developed forecasting dashboards and SQL automation for finance and operations teams. Supported reporting processes and improved reliability of recurring business reports.
+
+---
+
+## 🏆 Certifications
+- Snowflake Data Warehousing Certification  
+- Microsoft Excel Associate (2019)  
+- Python Programming Certification
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL, R, Excel (VBA)  
+**Data & Warehousing:** Snowflake, PostgreSQL, BigQuery, Redshift, dbt  
+**Visualization:** Tableau, Power BI, Looker  
+**Data Engineering:** Airflow, Spark, ETL/ELT pipelines  
+**Cloud:** AWS (S3, Redshift) | Familiar with Azure & GCP  
+**ML & Analytics:** Scikit-learn, XGBoost  
+**Collaboration:** Git, JIRA, Confluence
+
+---
+
+## 📊 Selected Projects
+
+### 🏙 NYC Air Quality & Health Impact
 **Python, XGBoost, Tableau**
 
-Analyzed 10+ years of pollution and health data to identify high-risk areas.  
-Built an **XGBoost model (86% accuracy)** and **Tableau dashboards** that visualized PM2.5 impacts, helping target interventions for public health stakeholders.
+Analyzed 10+ years of pollution and health data to identify high-risk regions.  
+Built an XGBoost model (**86% accuracy**) and dashboards visualizing PM2.5 impact on health outcomes.
 
 ---
 
-### 🎵 [Harmony Hub: Music Streaming Data Warehouse]
+### 🎵 Harmony Hub — Music Streaming Data Warehouse
 **Snowflake, SQL, Power BI, AWS**
 
-Designed a **Snowflake warehouse** integrating 1M+ records using star schema modeling.  
-Reduced query time by **40%**, cut redundancy by **35%**, and built **Power BI dashboards** that simplified reporting for content and strategy teams.
+Designed a Snowflake warehouse integrating **1M+ records** using star-schema modeling.  
+Improved query performance by **40%** and built dashboards supporting content and engagement analysis.
 
 ---
 
-### 📊 [S&P 500 Prediction using Macroeconomic Indicators](https://github.com/rushikesh328/Machine-Learning)
-**Python, Pandas, Scikit-learn, Matplotlib**
+### 📈 S&P 500 Prediction using Macroeconomic Indicators
+**Python, Scikit-learn**
 
-Developed an end-to-end ML pipeline that improved prediction accuracy by **25%**.  
-Implemented model interpretability methods for better transparency and decision support.
-
----
-
-## 🌐 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushishinde0812)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikesh328)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshshinders03@gmail.com)
+Built an end-to-end ML pipeline improving prediction accuracy by **25%** and added interpretability analysis to support decision making.
 
 ---
 
-> “Good data analysis doesn’t just explain what happened — it shows what to do next.”
+## 📬 I’m Currently Looking For
+Entry-level **Data Analyst, BI Analyst, Analytics Engineer, or Data Engineer** roles where I can:
+- work with real production datasets
+- support decision-making teams
+- build scalable data workflows
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/rushishinde0812)  
+[GitHub](https://github.com/rushikesh328)  
+Email: **rushikeshshinders03@gmail.com**
+
+---
+
+> *Good analysis explains the past.  
+> Great analysis helps someone decide what to do next.*
