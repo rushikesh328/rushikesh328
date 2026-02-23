@@ -12,7 +12,8 @@ Turning data into decisions with a blend of curiosity, analytics, and automation
 
 💡 Passionate about building analytical systems that turn raw data into insights people can act on.  
 🎓 **M.S. in Information Systems** | Syracuse University — *Certificate in Data Science*  
-💼 **Research Analyst @ Syracuse University** — Automating research analytics and KPI tracking using Python, PySpark & Tableau.  
+🤖 **Data & AI Intern @ Propvia** — Building property-level intelligence pipelines, batch predictions, and risk tiers using Python & SQL.
+💼 **Data Analyst @ Syracuse University** — Automating research analytics and KPI tracking using Python, PySpark & Tableau.  
 📊 **Ex-Wipro Trainee** — Delivered forecasting dashboards and SQL-driven automation for ops and finance teams.  
 
 My journey began with research data and curiosity — and evolved into designing automated data pipelines, predictive models, and interactive dashboards that help teams make faster, smarter decisions.
